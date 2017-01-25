@@ -11,9 +11,9 @@ public class For_loop1 {
 		
 		int[] arr = {2,3,4,6,5,7,8};
 		
-		for(int y:arr.length)
+		for(int y:arr)
 		{
-			System.out.println(arr[y]);
+			System.out.println(y);
 			
 		}
 	}
