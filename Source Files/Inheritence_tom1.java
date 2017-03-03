@@ -17,8 +17,11 @@ public class Inheritence_tom1 {
 		System.out.println(object_of_mobby1.num1);
 		
 		object_of_jerry1.action();
+		object_of_mobby1.action();
 		
 		System.out.println(object_of_cobby1.num1);
+		
+		// System.out.println(object_of_mobby1.action());
 		
 		
 		
